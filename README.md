@@ -1,11 +1,12 @@
-#Santiago Bejarano 24 años
+# Santiago Bejarano
 
-##208.699-2
+**Edad:** 24 años  
+**ID:** 208.699-2
 
-###Intereses:
+## Intereses
 
-1.Idiomas
-2.Programción
-3.Montar bici
+1. Idiomas
+2. Programación
+3. Montar bici
 
 ![inserte imagen acá](https://mx.pinterest.com/pin/630433647820848067/)
