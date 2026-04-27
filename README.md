@@ -9,4 +9,4 @@
 2. Programación
 3. Montar bici
 
-![inserte imagen acá](C:\Users\sbeja\OneDrive\Imágenes\Zamtyagho)
+![inserte imagen acá]([C:\Users\sbeja\OneDrive\Imágenes\Zamtyagho](https://i.pinimg.com/736x/de/21/3e/de213e0d34515ab94c9b0764e7cdc3c9.jpg))
