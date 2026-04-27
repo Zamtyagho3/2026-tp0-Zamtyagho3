@@ -1,7 +1,7 @@
 # Santiago Bejarano
 
 **Edad:** 24 años  
-**ID:** 208.699-2
+**Legajo:** 208.699-2
 
 ## Intereses
 
