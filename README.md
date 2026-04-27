@@ -4,4 +4,4 @@
 1.Idiomas
 2.Programción
 3.Montar bici
-![Inserte imagen acá]([imagen.png](https://mx.pinterest.com/pin/630433647820848067/))
+![Inserte imagen acá]((https://mx.pinterest.com/pin/630433647820848067/)
